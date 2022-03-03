@@ -1,0 +1,28 @@
+<mj-style>
+
+/* global style in&nbsp;head */
+
+/* media */
+
+@media screen and (max-width: 479px) {
+
+}
+
+@media screen and (min-width: 480px) {
+
+}
+
+/* black-theme rule media */
+
+@media (prefers-color-scheme: dark) {
+
+}
+
+/* button-hover */
+
+.components-main1--but a:hover{
+  background-color: #000000 !important;
+  color: #e303fc !important;
+}
+
+</mj-style>

@@ -1,0 +1,29 @@
+<mj-section mj-class="views-title2"
+            css-class="views-title2">
+
+  <mj-column mj-class="views-title2__column"
+             css-class="views-title2__column">
+
+    <mj-navbar mj-class="views-title2--menu"
+               css-class="views-title2--menu">
+
+      <mj-navbar-link mj-class="views-title2--menu_item"
+                      css-class="views-title2--title2_item"
+                      href="#" >About</mj-navbar-link>
+
+      <mj-navbar-link mj-class="views-title2--menu_item"
+                      css-class="views-title2--title2_item"
+                      href="#">Sale</mj-navbar-link>
+
+      <mj-navbar-link mj-class="views-title2--menu_item"
+                      css-class="views-title2--title2_item"
+                      href="#" >Terms</mj-navbar-link>
+
+      <mj-navbar-link mj-class="views-title2--menu_item"
+                      css-class="views-title2--title2_item"
+                      href="#">FAQ</mj-navbar-link>
+    </mj-navbar>
+
+  </mj-column>
+
+</mj-section>

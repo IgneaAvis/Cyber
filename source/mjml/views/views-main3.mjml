@@ -1,0 +1,23 @@
+<mj-section mj-class="views-main3 pt40 pb40"
+            css-class="views-main3 pt40 pb40">
+
+  <mj-column mj-class="views-main3__column container"
+             css-class="views-main3__column container">
+
+    <mj-carousel mj-class="views-main3--slider"
+                 css-class="views-main3--slider">
+
+      <mj-carousel-image src="{{{views-main3--slider_item.src}}}"
+                        mj-class="views-main3--slider_item views-main3--slider_item--1" css-class="views-main3--slider_item" />
+
+      <mj-carousel-image src="{{{views-main3--slider_item1.src}}}"
+                         mj-class="views-main3--slider_item views-main3--slider_item--2" css-class="views-main3--slider_item" />
+
+      <mj-carousel-image src="{{{views-main3--slider_item2.src}}}"
+                         mj-class="views-main3--slider_item views-main3--slider_item--3" css-class="views-main3--slider_item2" />
+
+    </mj-carousel>
+
+  </mj-column>
+
+</mj-section>

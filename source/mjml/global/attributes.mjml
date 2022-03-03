@@ -1,0 +1,197 @@
+<mj-attributes>
+
+  <!-- global attr mjml -->
+
+  <mj-all                                    font-family="Helvetica, Arial, sans-serif"
+                                             font-size="20px"
+                                             line-height="25px"
+                                             font-weight="400"
+                                             font-style="normal"
+                                             color="#000000" />
+
+  <mj-class name="h1"                        font-size="34px"
+                                             line-height="40px"
+                                             font-weight="700" />
+
+  <mj-class name="h2"                        font-size="28px"
+                                             line-height="35px"
+                                             font-weight="700" />
+
+  <mj-class name="h3"                        font-size="16px"
+                                             line-height="22px"
+                                             font-weight="700" />
+
+  <mj-class name="small"                     font-size="14px"
+                                             line-height="20px"
+                                             color="#838383" />
+
+  <mj-wrapper                                padding="0"
+                                             background-color="#000000"/>
+
+  <mj-section                                padding="0px" />
+
+  <mj-image                                  padding="0px"
+                                             rel="noopener noreferrer" />
+
+  <mj-button                                 padding="0px"
+                                             rel="noopener noreferrer"
+                                             target="_blank" />
+
+  <mj-text                                   align="center"
+                                             padding="0px 0px"
+                                             padding-bottom="20px" />
+
+  <mj-class name="divider"                   padding="0px"
+                                             padding-bottom="20px"
+                                             border-width="1px"
+                                             border-style="solid"
+                                             border-color="#838383" />
+
+  <mj-class name="divider-spacer"            padding="10px 0px"
+                                             border-width="0px"
+                                             border-style="solid"
+                                             border-color="#ffffff" />
+
+  <mj-class name="container"                 width="87%" />
+
+  <!-- helpers -->
+
+  <!-- padding-bottom -->
+
+  <mj-class name="pb0"                       padding-bottom="0px" />
+  <mj-class name="pb10"                      padding-bottom="10px" />
+  <mj-class name="pb15"                      padding-bottom="15px" />
+  <mj-class name="pb20"                      padding-bottom="20px" />
+  <mj-class name="pb25"                      padding-bottom="25px" />
+  <mj-class name="pb30"                      padding-bottom="30px" />
+  <mj-class name="pb40"                      padding-bottom="40px" />
+  <mj-class name="pb50"                      padding-bottom="50px" />
+  <mj-class name="pb60"                      padding-bottom="60px" />
+
+  <!-- padding-top -->
+
+  <mj-class name="pt0"                       padding-top="0px" />
+  <mj-class name="pt10"                      padding-top="10px" />
+  <mj-class name="pt15"                      padding-top="15px" />
+  <mj-class name="pt20"                      padding-top="20px" />
+  <mj-class name="pt25"                      padding-top="25px" />
+  <mj-class name="pt30"                      padding-top="30px" />
+  <mj-class name="pt40"                      padding-top="40px" />
+  <mj-class name="pt50"                      padding-top="50px" />
+  <mj-class name="pt60"                      padding-top="60px" />
+
+  <!-- blocks -->
+  <mj-class name="main-wrapper"               background-url="/image/img-cyber-main-bg.jpg"
+                                              background-position="left top"
+                                              full-width="full-width"
+                                              background-repeat="no-repeat"
+                                              background-size="40%"
+                                              width="100%" />
+  <!-- title -->
+  <mj-class name="views-title"                background-color="#0e0e10"/>
+
+  <!-- title2 -->
+  <mj-class name="views-title2__column"       background-color="#0e0e10"/>
+
+  <mj-class name="views-title2--menu"         hamburger="hamburger" />
+
+  <mj-class name="views-title2--menu_item"    color="#bbbbbb"
+                                              font-size="16px"
+                                              line-height="24px"
+                                              text-transform="uppercase"
+                                              width="150px"
+                                              padding="10px 30px"/>
+
+  <mj-class name="views-title2--menu"         ico-color="#e303fc" />
+
+  <!-- main -->
+  <mj-class name="views-main"                 background-color="#0e0e10"/>
+
+  <mj-class name="views-main--group"          width="50%"/>
+
+  <mj-class name="views-main__column"         padding="0px 10px"
+                                              width="50%"/>
+
+   <mj-class name="views-main--image"         container-background-color="#000000"
+                                              width="64px"/>
+
+  <mj-class name="accord"                     padding="0px"
+                                              icon-wrapped-url="image/img-cyber-down-arrow.png"
+                                              icon-unwrapped-url="image/img-cyber-up-arrow.png"
+                                              icon-width="12px"
+                                              container-background-color="#000000"
+                                              padding-left="10px"/>
+
+  <mj-class name="accord-elem"                padding="0px" />
+
+  <mj-class name="accord-title"               color="#bbbbbb"
+                                              font-size="12px"
+                                              padding="0px"/>
+
+  <mj-class name="accord-text"                color="#bbbbbb"
+                                              font-size="14px"
+                                              line-height="22px"
+                                              padding="5px"/>
+
+  <!-- main3 -->
+
+  <mj-class name="views-main3"                background-color="#0e0e10" />
+
+  <mj-class name="views-main3--slider"        left-icon="image/img-cyber-left-arrow.png"
+                                              icon-width="20px"
+                                              tb-width="50px"
+                                              right-icon="image/img-cyber-right-arrow.png"
+                                              icon-width="20px"
+                                              border-radius="20px"/>
+
+  <mj-class name="views-main3--slider_item--1"
+                                              thumbnails-src="image/img-cyber-thumbnail-1.jpg" />
+  <mj-class name="views-main3--slider_item--2"
+                                              thumbnails-src="image/img-cyber-thumbnail-2.jpg" />
+  <mj-class name="views-main3--slider_item--3"
+                                              thumbnails-src="image/img-cyber-thumbnail-3.jpg" />
+
+  <!-- footer -->
+
+  <mj-class name="views-footer"               background-color="#0e0e10"
+                                              padding-bottom="20px"/>
+
+  <mj-class name="views-footer__column"       width="25%" />
+
+  <mj-class name="views-footer--group"        width="75%"/>
+
+  <mj-class name="views-footer__column1"      width="30%" />
+  <mj-class name="views-footer__column-one"   width="70%" />
+
+  <mj-class name="views-footer--menu"         font-size="12px"
+                                              line-height="20px"
+                                              align="left"/>
+
+  <mj-class name="views-footer__image"        width="50px" />
+
+  <mj-class name="views-footer__column-one--title"
+                                              align="left"
+                                              color="#bbbbbb"
+                                              font-size="16px"
+                                              line-height="24px"
+                                              text-transform="uppercase"/>
+
+  <mj-class name="views-footer__column-one--text"
+                                              align="left"
+                                              color="#bbbbbb"
+                                              font-size="14px"
+                                              line-height="22px"/>
+
+  <mj-class name="views-footer__column-one--link"
+                                              align="left"
+                                              color="#bbbbbb"
+                                              font-size="14px"
+                                              line-height="22px"/>
+
+  <mj-class name="views-footer--under"        background-color="#0e0e10"/>
+
+  <mj-class name="views-footer--social_elem"  padding="0 10px"/>
+
+  <mj-class name="views-footer__image"        padding="10px 35px" />
+
+</mj-attributes>

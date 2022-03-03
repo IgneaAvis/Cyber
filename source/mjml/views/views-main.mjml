@@ -1,0 +1,122 @@
+<mj-section mj-class="views-main pt30"
+            css-class="views-main pt30">
+
+  <mj-group mj-class="views-main--group views-main--group-1"
+            css-class="views-main--group views-main--group-1">
+
+    <mj-column mj-class="views-main__column"
+              css-class="views-main__column">
+
+  <mj-image src="{{{views-main--image1.src}}}"
+            alt="{{{views-main--image1.alt}}}"
+            mj-class="views-main--image"
+            css-class="views-main--image"/>
+
+    <mj-accordion mj-class="accord"
+                  css-class="accord">
+
+      <mj-accordion-element mj-class="accord-elem"
+                            css-class="accord-elem">
+
+        <mj-accordion-title mj-class="accord-title"
+                            css-class="accord-title">
+                            Camera</mj-accordion-title>
+
+        <mj-accordion-text mj-class="accord-text"
+                           css-class="accord-text">Excepteur sint occaecat cupidatat qui laborum.</mj-accordion-text>
+      </mj-accordion-element>
+
+    </mj-accordion>
+
+  </mj-column>
+
+  <mj-column mj-class="views-main__column"
+             css-class="views-main__column">
+
+  <mj-image src="{{{views-main--image2.src}}}"
+            alt="{{{views-main--image2.alt}}}"
+            mj-class="views-main--image"
+            css-class="views-main--image"/>
+
+    <mj-accordion mj-class="accord"
+                  css-class="accord">
+
+      <mj-accordion-element mj-class="accord-elem"
+                            css-class="accord-elem">
+
+        <mj-accordion-title mj-class="accord-title"
+                            css-class="accord-title">
+                            Camera</mj-accordion-title>
+
+        <mj-accordion-text mj-class="accord-text"
+                           css-class="accord-text">
+                           Excepteur sint occaecat cupidatat qui laborum.</mj-accordion-text>
+      </mj-accordion-element>
+
+    </mj-accordion>
+
+  </mj-column>
+
+  </mj-group>
+
+  <mj-group mj-class="views-main--group views-main--group-2"
+            css-class="views-main--group views-main--group-2">
+
+    <mj-column mj-class="views-main__column"
+               css-class="views-main__column">
+
+    <mj-image src="{{{views-main--image3.src}}}"
+              alt="{{{views-main--image3.alt}}}"
+              mj-class="views-main--image"
+              css-class="views-main--image"/>
+
+    <mj-accordion mj-class="accord"
+                  css-class="accord">
+
+      <mj-accordion-element mj-class="accord-elem"
+                            css-class="accord-elem">
+
+        <mj-accordion-title mj-class="accord-title"
+                            css-class="accord-title">
+                            Camera</mj-accordion-title>
+
+        <mj-accordion-text mj-class="accord-text"
+                           css-class="accord-text">
+                           Excepteur sint occaecat cupidatat qui laborum.</mj-accordion-text>
+
+      </mj-accordion-element>
+
+    </mj-accordion>
+  </mj-column>
+
+  <mj-column mj-class="views-main__column"
+             css-class="views-main__column">
+
+    <mj-image src="{{{views-main--image4.src}}}"
+              alt="{{{views-main--image4.alt}}}"
+              mj-class="views-main--image"
+              css-class="views-main--image"/>
+
+    <mj-accordion mj-class="accord"
+                  css-class="accord">
+
+      <mj-accordion-element mj-class="accord-elem"
+                            css-class="accord-elem">
+
+        <mj-accordion-title mj-class="accord-title"
+                            css-class="accord-title">
+                            Camera</mj-accordion-title>
+
+        <mj-accordion-text mj-class="accord-text"
+                           css-class="accord-text">
+                           Excepteur sint occaecat cupidatat qui laborum.</mj-accordion-text>
+
+      </mj-accordion-element>
+
+    </mj-accordion>
+
+  </mj-column>
+
+  </mj-group>
+
+</mj-section>

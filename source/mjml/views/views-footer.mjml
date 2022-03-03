@@ -1,0 +1,105 @@
+<mj-section mj-class="views-footer"
+            css-class="views-footer">
+
+  <mj-column mj-class="views-footer__column pt20"
+             css-class="views-footer__column pt20">
+
+    <mj-image mj-class="views-footer__image"
+              css-class="views-footer__image"
+              src="{{{views-footer__image.src}}}"
+              alt="{{{views-footer__image.alt}}}"/>
+  </mj-column>
+
+  <mj-group mj-class="views-footer--group"
+            css-class="views-footer--group">
+
+    <mj-column mj-class="views-footer__column1 pt20"
+               css-class="views-footer__column1 pt20">
+
+      <mj-text mj-class="views-footer--menu"
+               css-class="views-footer--menu">
+        <p><a href="{{{class.href}}}"
+              title="{{{class.title}}}"
+              target="_blank"
+              rel="noopener noreferrer">ABOUT</a></p>
+      </mj-text>
+
+      <mj-text mj-class="views-footer--menu"
+               css-class="views-footer--menu">
+        <p><a href="{{{class.href}}}"
+              title="{{{class.title}}}"
+              target="_blank"
+              rel="noopener noreferrer">SALE</a></p>
+      </mj-text>
+
+      <mj-text mj-class="views-footer--menu"
+               css-class="views-footer--menu">
+        <p><a href="{{{class.href}}}"
+              title="{{{class.title}}}"
+              target="_blank"
+              rel="noopener noreferrer">TERMS</a></p>
+      </mj-text>
+
+      <mj-text mj-class="views-footer--menu"
+               css-class="views-footer--menu">
+        <p><a href="{{{class.href}}}"
+              title="{{{class.title}}}"
+              target="_blank"
+              rel="noopener noreferrer">FAQ</a></p>
+      </mj-text>
+
+    </mj-column>
+
+    <mj-column mj-class="views-footer__column-one pt20"
+               css-class="views-footer__column-one pt20">
+
+      <mj-text mj-class="views-footer__column-one--title"
+               css-class="views-footer__column-one--title"><p>WHERE TO&nbsp;FIND US</p></mj-text>
+
+      <mj-text mj-class="views-footer__column-one--text"
+               css-class="views-footer__column-one--text"><p>Excepteur sint occaecat cupidatat non proident, sunt in&nbsp;culpa qui officia.</p></mj-text>
+
+      <mj-text mj-class="views-footer__column-one--link"
+               css-class="views-footer__column-one--link"><p>Create by
+               <a href="{{{class.href}}}"
+                  title="{{{class.title}}}"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  typenote.io</a></p>
+      </mj-text>
+
+    </mj-column>
+
+  </mj-group>
+
+</mj-section>
+
+<mj-section mj-class="views-footer--under pb10"
+            css-class="views-footer--under pb10">
+
+  <mj-column mj-class="views-footer--under"
+             css-class="views-footer--under">
+
+    <mj-social mj-class="views-footer--social"
+               css-class="views-footer--social">
+
+      <mj-social-element src="{{{views-footer--social_elem.src}}}"
+                         mj-class="views-footer--social_elem"
+                         css-class="views-footer--social_elem"></mj-social-element>
+
+      <mj-social-element src="{{{views-footer--social_elem1.src}}}"
+                         mj-class="views-footer--social_elem"
+                         css-class="views-footer--social_elem"></mj-social-element>
+
+      <mj-social-element src="{{{views-footer--social_elem2.src}}}"
+                         mj-class="views-footer--social_elem"
+                         css-class="views-footer--social_elem"></mj-social-element>
+
+      <mj-social-element src="{{{views-footer--social_elem3.src}}}"
+                         mj-class="views-footer--social_elem"
+                         css-class="views-footer--social_elem"></mj-social-element>
+    </mj-social>
+
+  </mj-column>
+
+</mj-section>

@@ -1,0 +1,87 @@
+{
+  "title": {
+    "content": "Cyber"
+  },
+
+  "preheader": {
+    "content": "Cyber &nbsp;&zwnj;"
+  },
+
+  "views-title__image": {
+    "src": "image/img-cyber-logo.gif",
+    "alt": "main"
+  },
+
+  "views-title3--image": {
+    "src": "image/img-cyber-lens-1.jpg",
+    "alt": "main"
+  },
+
+  "views-main--image1": {
+    "src": "image/img-cyber-advantages-1.png",
+    "alt": "main"
+  },
+
+  "views-main--image2": {
+    "src": "image/img-cyber-advantages-2.png",
+    "alt": "main"
+  },
+
+  "views-main--image3": {
+    "src": "image/img-cyber-advantages-3.png",
+    "alt": "main"
+  },
+
+  "views-main--image4": {
+    "src": "image/img-cyber-advantages-4.png",
+    "alt": "main"
+  },
+
+  "components-main1--image": {
+    "src": "image/img-cyber-lens-2.jpg",
+    "alt": "image"
+  },
+
+  "components-main1--image1": {
+    "src": "image/img-cyber-camera.jpg",
+    "alt": "image"
+  },
+
+  "components-main1--one": {
+    "src": "image/img-cyber-neon-1.png",
+    "alt": "image"
+  },
+
+  "views-main3--slider_item": {
+    "src": "image/img-cyber-carousel-1.jpg"
+  },
+
+  "views-main3--slider_item1": {
+    "src": "image/img-cyber-carousel-2.jpg"
+  },
+
+  "views-main3--slider_item2": {
+    "src": "image/img-cyber-carousel-3.jpg"
+  },
+
+  "views-footer__image": {
+    "src": "image/img-cyber-logo-footer.png",
+    "alt": "logofoot"
+  },
+
+  "views-footer--social_elem": {
+    "src": "image/img-cyber-facebook.png"
+  },
+
+  "views-footer--social_elem1": {
+    "src": "image/img-cyber-twitter.png"
+  },
+
+  "views-footer--social_elem2": {
+    "src": "image/img-cyber-linkedin.png"
+  },
+
+  "views-footer--social_elem3": {
+    "src": "image/img-cyber-instagram.png"
+  }
+}

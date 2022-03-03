@@ -1,0 +1,11 @@
+<mj-section mj-class="components-main1" direction="rtl" css-class="components-main1">
+  <mj-column mj-class="components-main1__column" css-class="components-main1__column">
+    <mj-image mj-class="components-main1--image" css-class="components-main1--image" src="{{{components-main1--image1.src}}}" alt="{{{components-main1--image1.alt}}}"/>
+  </mj-column>
+  <mj-column mj-class="components-main1__column--one" css-class="components-main1__column--one">
+    <mj-image mj-class="components-main1--one" css-class="components-main1--one" src="{{{components-main1--one.src}}}" alt="{{{components-main1--one.alt}}}"/>
+    <mj-text mj-class="components-main1--title" css-class="components-main1--title"><p>UP&nbsp;TO&nbsp;35% OFF CAMERA LENS</p></mj-text>
+    <mj-text mj-class="components-main1--text" css-class="components-main1--text"><p>Excepteur sint occaecat cupidatat non proident, sunt in&nbsp;culpa qui officia deserunt mollit anim id&nbsp;est laborum.</p></mj-text>
+    <mj-button mj-class="components-main1--but" css-class="components-main1--but" href="#">Shop Now</mj-button>
+  </mj-column>
+</mj-section>

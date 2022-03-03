@@ -1,0 +1,45 @@
+<mjml lang="ru">
+
+  <mj-head>
+
+    <mj-title>{{{title.content}}}</mj-title>
+    <mj-preview>{{{preheader.content}}}</mj-preview>
+
+    <mj-include path="global/attributes.mjml" />
+    <mj-include path="global/style-inline.mjml" />
+    <mj-include path="global/style.mjml" />
+
+    <mj-include path="components/main1/main1-attributes.mjml" />
+    <mj-include path="components/main1/main1-style.mjml" />
+
+    <mj-raw>
+      <meta name="color-scheme" content="light dark">
+      <meta name="supported-color-schemes" content="light dark">
+    </mj-raw>
+
+  </mj-head>
+
+  <mj-body css-class="body">
+
+  <mj-wrapper mj-class="main-wrapper"
+              css-class="main-wrapper">
+
+    <mj-include path="views/views-title.mjml" />
+
+    <mj-include path="views/views-title2.mjml" />
+
+    <mj-include path="views/views-title3.mjml" />
+
+    <mj-include path="views/views-main.mjml" />
+
+    <mj-include path="views/views-main2.mjml" />
+
+    <mj-include path="views/views-main3.mjml" />
+
+    <mj-include path="views/views-footer.mjml" />
+
+  </mj-wrapper>
+
+  </mj-body>
+
+</mjml>

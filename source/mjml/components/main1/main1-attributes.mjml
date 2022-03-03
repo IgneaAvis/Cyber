@@ -1,0 +1,37 @@
+<mj-attributes>
+
+<mj-class name="components-main1"         background-color="#0e0e10"
+                                          padding-top="30px"
+                                          padding-left="10px"
+                                          padding-right="10px"
+                                          vertical-align="middle"/>
+
+<mj-class name="components-main1__column" vertical-align="middle" />
+
+<mj-class name="components-main1__column--one"
+                                          vertical-align="middle" />
+
+<mj-class name="components-main1--image"  width="190px"/>
+
+<mj-class name="components-main1--one"    width="270px"
+                                          padding-bottom="20px"/>
+
+<mj-class name="components-main1--title"  font-size="16px"
+                                          line-height="24px"
+                                          color="#bbbbbb"
+                                          text-transform="uppercase"
+                                          align="left"/>
+
+<mj-class name="components-main1--text"   font-size="14px"
+                                          line-height="22px"
+                                          color="#bbbbbb"
+                                          align="left"/>
+
+<mj-class name="components-main1--but"    background-color="#a114ba"
+                                          color="#bbbbbb"
+                                          font-size="14px"
+                                          line-height="22px"
+                                          border-radius="6px"
+                                          padding="10px 20px"/>
+
+</mj-attributes>

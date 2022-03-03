@@ -1,0 +1,14 @@
+<mj-section mj-class="views-title"
+            css-class="views-title">
+
+  <mj-column mj-class="views-title__column container pt0 pb0"
+             css-class="views-title__column container pt0 pb0">
+
+  <mj-image src="{{{views-title__image.src}}}"
+              alt="{{{views-title__image.alt}}}"
+              mj-class="views-title__image"
+              css-class="views-title__image"/>
+
+  </mj-column>
+
+</mj-section>
